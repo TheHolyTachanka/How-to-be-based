@@ -8,7 +8,7 @@ its very easy
 7. Dont install any closed-source software
 8. You are based... good job!
 
-If i missed anything feel free to comment!
+If i missed anything feel free to make a PR!
 
 ### Services
 * Gmail -> [Proton Mail](https://proton.me/mail)
