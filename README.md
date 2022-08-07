@@ -1,6 +1,6 @@
 its very easy
 1. Delete Windows(If you are using it)
-2. Install a flavor of GNU/Linux(Like [Arch Linux](https://archlinux.org) or [Gentoo](https://www.gentoo.org/) or better, [soviet](https://sovietlinux.ml) )
+2. Install a flavor of GNU/Linux(Like [Arch Linux](https://archlinux.org) or [Gentoo](https://www.gentoo.org/) or better, [Soviet](https://sovietlinux.ml) )
 3. Switch to [these services](#services)
 4. Switch to [these programs](#programs)
 5. Install [Graphene](https://grapheneos.org/) on your phone if you can
@@ -20,7 +20,7 @@ If i missed anything feel free to comment!
 
 ### Programs
 * Vscode -> [Vim](https://www.vim.org/)
-* Chrome -> [Firefox](https://firefox.org/) or [LibreWolf](https://librewolf.net/)
+* Chrome ->  [LibreWolf](https://librewolf.net/) or [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
 ### Apps
 * Play store -> [Fdroid](https://f-droid.org/) or [Aurora store](https://auroraoss.com/)
