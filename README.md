@@ -20,7 +20,7 @@ If i missed anything feel free to comment!
 
 ### Programs
 * Vscode -> [Vim](https://www.vim.org/)
-* Chrome ->  [LibreWolf](https://librewolf.net/) or [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+* Chrome -> [LibreWolf](https://librewolf.net/) or [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
 ### Apps
 * Play store -> [Fdroid](https://f-droid.org/) or [Aurora store](https://auroraoss.com/)
