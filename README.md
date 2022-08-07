@@ -1,6 +1,6 @@
 its very easy
 1. Delete Windows(If you are using it)
-2. Install a flavor of GNU/Linux(Like [Arch Linux](https://archlinux.org) or [Gentoo](https://www.gentoo.org/) or better, [Soviet](https://sovietlinux.ml) )
+2. Install a flavor of GNU/Linux(Like [Arch Linux](https://archlinux.org) or [Gentoo](https://www.gentoo.org/) or even better, [Soviet](https://sovietlinux.ml) )
 3. Switch to [these services](#services)
 4. Switch to [these programs](#programs)
 5. Install [Graphene](https://grapheneos.org/) on your phone if you can
